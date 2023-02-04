@@ -1,2 +1,3 @@
 test branch 01
 - menambahkan detail branch 01
+- menambahkan struktur data
